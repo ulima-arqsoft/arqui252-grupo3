@@ -26,7 +26,7 @@
     - [2.2.3. Módulo 3](./2/2.2/2.2.3/2.2.3.md)
     - [2.2.4. Módulo 4](./2/2.2/2.2.4/2.2.4.md)
     - [2.2.5. Módulo 5](./2/2.2/2.2.5/2.2.5.md)
-    - [2.1.6. Listado Consolidado](./2/2.2/2.1.6/2.1.6.md)
+    - [2.2.6. Listado Consolidado](./2/2.2/2.2.6/2.2.6.md)
   - [2.3. Restricciones](./2/2.3/2.3.md)
 - [3. Refinamiento de Requisitos de Atributos de Calidad - QAW](./3/3.md)
   - [3.1. Catálogo de Stakeholders](./3/3.1/3.1.md)
